@@ -20,4 +20,5 @@ You can send me an e-mail at etienne.jouault5@gmail.com or call me at +33(0)6.74
 Also, if you are curious about me, look here:
 
 linkedin profile > https://www.linkedin.com/in/etienne-jouault/
+
 portfolio > https://et3317.github.io/portfolio-2/
