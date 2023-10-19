@@ -1,8 +1,8 @@
 ### Hello world 👋
 
-I'm Etienne , I am 34 yo and I'm French.
+I'm Etienne , I am 31 yo and I'm French.
 
-👀 I like traveling around the world, gastronomy, all kinds of music and sport
+👀 I like traveling around the world and gastronomy, Asia which is a fascinating continent, music particularly reggae and hip hop, and team sports 🏀 ⚽️   
 And of course coding, but you’ve probably already guessed that?!
 
 👨🏼‍🍳 After 12 years in the restaurant industry, winter in the French Alps and summer on the Atlantic coast, I decided to completely change career. No more plates giving me lines of code! 🧑‍💻
